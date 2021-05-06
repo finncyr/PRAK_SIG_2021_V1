@@ -1,0 +1,1 @@
+[z,fs]=audioread('MENU.WAV');MERKEN
