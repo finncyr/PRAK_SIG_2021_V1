@@ -1,1 +1,1 @@
-[z,fs]=audioread('MENU.WAV');MERKEN
+A = 0.3f = 400 #HzT = 3 #sfs = 22050 #Hzdt = 1/fs;nT = 0:(1/fs):3x = A * cos(2* pi() * f * nT)t = 0:dt:0.01deltax = A * cos(2* pi() * f * t)stem(t, deltax)pl = audioplayer(x,fs);play(pl);
